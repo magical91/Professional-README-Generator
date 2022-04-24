@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/magical91/potential-enigma/issues"
   },
-  "homepage": "https://github.com/magical91/potential-enigma#readme"
+  "homepage": "https://github.com/magical91/potential-enigma#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
