@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
+const path = require("path");
 const inquirer = require('inquirer');
 const generatePage = require('./Develop/utils/generateMarkdown')
 
@@ -21,16 +22,9 @@ const questions = [
   },
   // desciption of the project
   {
-    type: 'confirm',
-    name: 'confirmAbout',
-    message: 'Would you like to enter some information about the project?',
-    default: true
-  },
-  {
     type: 'input',
     name: 'about',
-    message: 'Provide some information about your project:',
-    when: ({ confirmAbout }) => confirmAbout
+    message: 'Enter a short description about the project.',
   },
   // installation instructions for the project
   {
@@ -135,14 +129,12 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile(fileName, data, (err) => {
-    if (err) {
-      return console.log(err);
-    }
+
+ fs.writeFileSync(path.join(process.cwd(), fileName), data)
 
   console.log("Success! You can now preview your README file")  
 
-  });
+  
 };
 
 // TODO: Create a function to initialize app
@@ -150,7 +142,7 @@ function init() {
   inquirer.prompt(questions)
   .then(function (userInput) {
     console.log(userInput)
-    writeToFile("README.md", generateMarkdown(userInput));
+    writeToFile("README.md", generatePage(userInput));
   });
 };
 

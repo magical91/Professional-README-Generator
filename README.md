@@ -1,3 +1,28 @@
-# Professional README Generator Starter Code
+# Im gay
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/badge/license-MIT-blue.svg)
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributions](#contributions)
+  - [Testing](#testing)
+  - [Questions](#questions)
+  
+
+  ## Description:
+  Lame
+  ## Installation:
+  with that dick
+  ## Usage:
+  with your ass
+  ## License:
+  This repo was built under the MIT license.
+  ## Contribution:
+  Idk
+  ## Testing:
+  they dont
+  ## Questions:
+  - Github: [magical91](https://github.com/magical91)
+  - Email: [magicalbeauty91@gmail.com](mailto:user@example.com)
