@@ -1,4 +1,4 @@
-# gynh
+# Readme Generator
 
   [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table of Contents
@@ -12,17 +12,17 @@
   
 
   ## Description:
-  kjl.,ihj
+  A project that generates a README file based on user input
   ## Installation:
-  edgrezd
+  Will need inquirer
   ## Usage:
-  drtg
+  Answer questions by typing "node index" at terminal
   ## License:
-  MIT
+  This repo was built under the MIT license.
   ## Contribution:
-  dgvfr
+  Contact me
   ## Testing:
-  aaaaaa
+  Visit my github to test
   ## Questions:
-  - Github: [bbbbb](https://github.com/bbbbb)
-  - Email: [gggggg](mailto:user@example.com)
+  - Github: [magical91](https://github.com/magical91)
+  - Email: [marissa.martinez91@outlook.com](mailto:user@example.com)

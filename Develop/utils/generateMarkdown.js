@@ -14,7 +14,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== "None of the above") {
-    return `This repo was built under the ${data.license} license.`
+    return `This repo was built under the ${license} license.`
   }
 }
 
