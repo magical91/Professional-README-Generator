@@ -1,4 +1,4 @@
-# Im gay
+# gynh
 
   [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table of Contents
@@ -6,23 +6,23 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributions](#contributions)
+  - [Contributions](#contribution)
   - [Testing](#testing)
   - [Questions](#questions)
   
 
   ## Description:
-  Lame
+  kjl.,ihj
   ## Installation:
-  with that dick
+  edgrezd
   ## Usage:
-  with your ass
+  drtg
   ## License:
-  This repo was built under the MIT license.
+  MIT
   ## Contribution:
-  Idk
+  dgvfr
   ## Testing:
-  they dont
+  aaaaaa
   ## Questions:
-  - Github: [magical91](https://github.com/magical91)
-  - Email: [magicalbeauty91@gmail.com](mailto:user@example.com)
+  - Github: [bbbbb](https://github.com/bbbbb)
+  - Email: [gggggg](mailto:user@example.com)
